@@ -1,0 +1,62 @@
+#header{
+    background-color: green;
+    text-align: center;
+    font-family: cursive;
+}
+
+#txt-input{
+    border: 2px solid black;
+    width: 300px;
+    height: 50px;
+    margin: 1rem;
+    padding: 1rem;
+    display: block;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: cursive;
+    background-color: lightgreen;
+}
+
+#btn-translate:hover{
+    background-color: green;
+}
+#btn-translate{
+    border-radius: 10px;
+    padding: 1rem;
+    display: block;
+    margin: auto;
+    font-family: cursive;
+    background-color: lightgreen;
+}
+
+#txted{
+    padding: 1rem;
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: larger;
+    font-family: cursive;
+
+}
+
+#txt-output{
+    border: 2px solid black;
+    width: 300px;
+    height: 50px;
+    margin: 1rem;
+    padding: 1rem;
+    display: block;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: cursive;
+    background-color:lightgreen;
+}
+
+#footer{
+    margin-top: 220px;
+    background-color: green;
+    text-align: center;
+    font-family: cursive;
+}
